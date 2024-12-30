@@ -1,3 +1,3 @@
 # GitBookPlugins
 
-项目说明
+Visit [https://gendloop.github.io/GitBookPlugins/](https://gendloop.github.io/GitBookPlugins/).
