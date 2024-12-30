@@ -1,12 +1,12 @@
 # GitBook 插件
 
-本项目只介绍模板 [template-GitbookProject](https://github.com/gendloop/template-GitbookProject) 中用到的插件.
+本项目只介绍模板 [template-GitbookProject](https://github.com/gendloop/template-GitbookProject) 中用到的插件, 关于 GitBook 的使用可点此查看 [Guide](https://www.yuque.com/gendloop/learningnotes/git-book-guide).
 
 ## 插件使用
 
-* 插件的配置位于 `book.json`
-  * 在 `plugins` 中可添加新插件, 插件名前加 `-` 可移除该插件
-  * 在 `pluginsConfig` 中可添加插件的详细配置
+插件的配置位于 `book.json`
+* 在 `plugins` 中可添加新插件, 插件名前加 `-` 可移除该插件
+* 在 `pluginsConfig` 中可添加插件的详细配置
 
 ## 插件目录
 
