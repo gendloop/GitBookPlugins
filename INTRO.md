@@ -14,7 +14,7 @@
 | ---- | ---------------------------------------- | ---------------------- |
 | 1    | [search-plus](contents/search-plus.md) | 搜索时支持中文 |
 | 2    | [sharing-plus](contents/sharing-plus.md) | 分享当前页面到指定平台   |
-| 3    | splitter                                 |                        |
+| 3    | [splitter](contents/splitter.md)        | 调节侧边栏宽度 |
 | 4    | mermaid-gb3                              |                        |
 | 5    | expandable-chapters-small                |                        |
 | 6    | anchor-navigation-ex                     |                        |
