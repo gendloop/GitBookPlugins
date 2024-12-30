@@ -10,9 +10,9 @@
 
 ## 插件目录
 
-| Num  | Plugin                                   | Descr                  |
+| Num  | Plugin                                   | Desc                  |
 | ---- | ---------------------------------------- | ---------------------- |
-| 1    | search-plus                              |                        |
+| 1    | [search-plus](contents/search-plus.md) | 搜索时支持中文 |
 | 2    | [sharing-plus](contents/sharing-plus.md) | 分享当前页面到指定平台   |
 | 3    | splitter                                 |                        |
 | 4    | mermaid-gb3                              |                        |

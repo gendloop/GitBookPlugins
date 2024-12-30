@@ -4,4 +4,5 @@
 
 ## 插件目录
 
+* [search-plus](contents/search-plus.md)
 * [sharing-plus](contents/sharing-plus.md)
