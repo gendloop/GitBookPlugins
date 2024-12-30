@@ -1,5 +1,7 @@
 # Summary
 
-* [首页](INTRO.md)
+* [GitBook 插件](INTRO.md)
 
-## Contents
+## 插件目录
+
+* [sharing-plus](contents/sharing-plus.md)
