@@ -16,7 +16,7 @@
 | 2    | [sharing-plus](contents/sharing-plus.md) | 分享当前页面到指定平台   |
 | 3    | [splitter](contents/splitter.md)        | 调节侧边栏宽度 |
 | 4    | [mermaid-gb3](contents/mermaid-gb3.md)   | 支持 [Mermaid](https://www.yuque.com/gendloop/learningnotes/mermaid-guide) 图表 |
-| 5    | expandable-chapters-small                |                        |
+| 5    | [expandable-chapters-small](contents/expandable-chapters-small.md) | 左侧导航目录可折叠 |
 | 6    | anchor-navigation-ex                     |                        |
 | 7    | simple-page-toc                          |                        |
 | 8    | github                                   |                        |

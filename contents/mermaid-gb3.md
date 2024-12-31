@@ -14,9 +14,11 @@
 
 ## 效果
 
-````markdown
+````plain_text
+```mermaid
 graph LR
 1[步骤一] --> 2[步骤二] --> 3[步骤三]
+```
 ````
 
 ```mermaid
