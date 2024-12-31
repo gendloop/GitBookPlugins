@@ -12,4 +12,5 @@
   * [expandable-chapters-small](contents/expandable-chapters-small.md)
   * [anchor-navigation-ex](contents/anchor-navigation-ex.md)
   * [github](contents/github.md)
+  * [edit-link](contents/edit-link.md)
 

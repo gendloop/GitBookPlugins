@@ -20,8 +20,8 @@
 | 6    | [anchor-navigation-ex](contents/anchor-navigation-ex.md) | 添加悬浮目录和至顶按钮 |
 | 7    | simple-page-toc                          | 文章内部导航目录 |
 | 8    | [github](contents/github.md)             | 右上角添加 GitHub 图标 |
-| 9    | github-buttons                           |                        |
-| 10   | edit-link                                |                        |
+| 9    | github-buttons                           | 添加 GitHub 仓库的 Start, Watch, Fork 图标 |
+| 10   | [edit-link](contents/edit-link.md)     | 添加当前文档的编辑图标 |
 | 11   | disqus                                   |                        |
 | 12   | prism                                    |                        |
 | 13   | prism-themes                             |                        |
