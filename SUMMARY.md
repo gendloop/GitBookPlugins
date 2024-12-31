@@ -11,4 +11,5 @@
   * [mermaid-gb3](contents/mermaid-gb3.md)
   * [expandable-chapters-small](contents/expandable-chapters-small.md)
   * [anchor-navigation-ex](contents/anchor-navigation-ex.md)
+  * [github](contents/github.md)
 
