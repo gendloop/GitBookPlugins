@@ -17,7 +17,7 @@
 | 3    | [splitter](contents/splitter.md)        | 调节侧边栏宽度 |
 | 4    | [mermaid-gb3](contents/mermaid-gb3.md)   | 支持 [Mermaid](https://www.yuque.com/gendloop/learningnotes/mermaid-guide) 图表 |
 | 5    | [expandable-chapters-small](contents/expandable-chapters-small.md) | 左侧导航目录可折叠 |
-| 6    | anchor-navigation-ex                     |                        |
+| 6    | [anchor-navigation-ex](contents/anchor-navigation-ex.md) | 添加悬浮目录和至顶按钮 |
 | 7    | simple-page-toc                          |                        |
 | 8    | github                                   |                        |
 | 9    | github-buttons                           |                        |

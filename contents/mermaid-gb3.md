@@ -14,14 +14,11 @@
 
 ## 效果
 
-````plain_text
 ```mermaid
-graph LR
-1[步骤一] --> 2[步骤二] --> 3[步骤三]
+graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
 ```
-````
 
-```mermaid
-graph LR
-1[步骤一] --> 2[步骤二] --> 3[步骤三]
-```
