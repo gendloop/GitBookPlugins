@@ -22,10 +22,10 @@
 | 8    | [github](contents/github.md)             | 右上角添加 GitHub 图标 |
 | 9    | github-buttons                           | 添加 GitHub 仓库的 Start, Watch, Fork 图标 |
 | 10   | [edit-link](contents/edit-link.md)     | 添加当前文档的编辑图标 |
-| 11   | disqus                                   |                        |
-| 12   | prism                                    |                        |
-| 13   | prism-themes                             |                        |
-| 14   | advanced-emoji                           |                        |
+| 11   | disqus                                   | 添加评论功能 |
+| 12   | prism                                    | 代码块高亮显示 |
+| 13   | prism-themes                             | 高亮主题 |
+| 14   | advanced-emoji                           | 支持 emoji |
 | 15   | anchors                                  |                        |
 | 16   | include-codeblock                        |                        |
 | 17   | ace                                      |                        |
